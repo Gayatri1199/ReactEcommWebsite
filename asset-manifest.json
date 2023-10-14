@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactEcommWebsite/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactEcommWebsite/static/js/main.3e5a8393.js",
+    "static/js/787.a91053ce.chunk.js": "/ReactEcommWebsite/static/js/787.a91053ce.chunk.js",
+    "index.html": "/ReactEcommWebsite/index.html",
+    "main.e6c13ad2.css.map": "/ReactEcommWebsite/static/css/main.e6c13ad2.css.map",
+    "main.3e5a8393.js.map": "/ReactEcommWebsite/static/js/main.3e5a8393.js.map",
+    "787.a91053ce.chunk.js.map": "/ReactEcommWebsite/static/js/787.a91053ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3e5a8393.js"
+  ]
+}
